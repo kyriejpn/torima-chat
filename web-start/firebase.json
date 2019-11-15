@@ -1,4 +1,12 @@
 {
+    // Add this!
+    "firestore": {
+      "rules": "firestore.rules"
+    },
+  // Add this!
+  "storage": {
+    "rules": "storage.rules"
+  },
   "hosting": {
     "public": "./public",
     "headers": [{

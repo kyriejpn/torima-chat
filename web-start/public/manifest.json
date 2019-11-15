@@ -1,6 +1,6 @@
 {
-  "name": "Friendly Chat",
-  "short_name": "Friendly Chat",
+  "name": "TORIMA Chat",
+  "short_name": "TORIMA Chat",
   "start_url": "/index.html",
   "display": "standalone",
   "orientation": "portrait"
